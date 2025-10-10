@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Fiche html</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <img src="accueillir-un-chaton.jpg" height="150">
+        <p><b>Nom:</b>Abdellaoui</p>
+        <p><b>Prénom: </b>Walid</p>
+        <a href="https://www.linkedin.com/in/walid-abdellaoui-69ba9a384/"><h1>linkedIN</h1></a>
+        <h3>Compétences</h3>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+        </ul>
+        <h3>Formation</h3>
+        <ul>
+            <li>Lycée Turgot (terminale première)</li>
+            <li>BTS Lycée Turgot</li>
+        </ul>
+        <a href="https://pia.ac-paris.fr/serail/jcms/s2_271354/fr/accueil"><p>Turgot</p></a>
+    </body>
+</html>
